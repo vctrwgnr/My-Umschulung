@@ -1,6 +1,6 @@
 <?php 
 
-$action = $_GET['action'] ?? 'showAusbildung';
+$action = $_GET['action'] ?? 'showUmschulung';
 
 $view = 'umschulung';
 $pageTitle = 'My School'; 
